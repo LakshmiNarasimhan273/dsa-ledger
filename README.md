@@ -25,4 +25,3 @@ Feel free to connect with me!
 📧 Email: lakshminarasimhan511@gmail.com
 💼 LinkedIn: https://www.linkedin.com/in/lakshmi-narasimhan-developer/
 🌐 Portfolio: https://lakshmi-narasimhan-portfolio.web.app/
-💻 GitHub: https://github.com/LakshmiNarasimhan273
