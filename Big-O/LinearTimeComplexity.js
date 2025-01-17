@@ -1,3 +1,4 @@
+// **__  LINEAR TIME CALCULATION __**
 const product = ['watch'];
 const products = ['mobile', 'tank', 'earbuds', 'iphone', 'laptop', 'bag', 'shoe'];
 const addProducts = new Array(100).fill('watch');
