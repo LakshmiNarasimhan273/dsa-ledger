@@ -13,6 +13,10 @@ Here's what you'll find in this repository:
 .
 |-- Big-O
 
+Each folder contains:
+* 3-5 Code Examples: Practical implementations and problem-solving scenarios for the specific concept.
+* Real-Time Examples: Bridging theory with real-world applications to enhance understanding.
+* Readme File: A brief explanation of the concept, its applications, and how the provided code examples relate to it.
 
 🌟 Goals
 To create a comprehensive resource for learning and practicing DSA.
