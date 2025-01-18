@@ -1,4 +1,4 @@
-Big O Time Complexity is a way to measure how efficiently an algorithm performs as the size of its input grows. It describes the relationship between input size (n) and the number of operations the algorithm performs.
+* Big O Time Complexity is a way to measure how efficiently an algorithm performs as the size of its input grows. It describes the relationship between input size (n) and the number of operations the algorithm performs.
 
 * Key Differences:
     Linear Time (O(n)):
@@ -11,9 +11,9 @@ Big O Time Complexity is a way to measure how efficiently an algorithm performs 
     - The execution time remains the same, regardless of the input size.
     - Example: Accessing an element in an array by its index.Whether the array has 5 items or 5000,
      it takes only one step.
-*
 
-When will you encounter these complexities?
+
+* When will you encounter these complexities?
     - O(n): When an algorithm needs to process each element of the input individually (e.g., loops over all elements).
     - O(1): When the algorithm directly retrieves or computes something without looping or recursion.
 --------------------------------------------------------------------------------------------------------------------
