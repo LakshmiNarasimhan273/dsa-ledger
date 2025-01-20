@@ -15,7 +15,7 @@
 * Rule Block of Big O
     - Worst case - For better understanding refer TimeComplexity.js
     - Remove constant
-    - Different terms of inputs
+    - Different terms of inputs should have different variables. O(n + m), n and m arrays nested would be O(n*m)
     - Drop non dominants
 
 
