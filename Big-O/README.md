@@ -12,6 +12,12 @@
     - Example: Accessing an element in an array by its index.Whether the array has 5 items or 5000,
      it takes only one step.
 
+* Rule Block of Big O
+    - Worst case
+    - Remove constant
+    - Different terms of inputs
+    - Drop non dominants
+
 
 * When will you encounter these complexities?
     - O(n): When an algorithm needs to process each element of the input individually (e.g., loops over all elements).
