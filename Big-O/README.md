@@ -13,7 +13,7 @@
      it takes only one step.
 
 * Rule Block of Big O
-    - Worst case
+    - Worst case - For better understanding refer TimeComplexity.js
     - Remove constant
     - Different terms of inputs
     - Drop non dominants
