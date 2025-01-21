@@ -25,17 +25,12 @@ this repository is your go-to resource. 🌟
 ## 🛤️ Repository Structure  
 
 The repository is organized into the following folders:  
-.
-|-- Big-O
-|-- Problem solving
 
-
-### What Each Folder Contains:  
-- **Big-O Folder**:  
+- 📂 **Big-O**  
   - Basics of **time and space complexity**.  
   - Detailed analysis of algorithm performance with examples.  
 
-- **Problem Solving Folder**:  
+- 📂 **Problem Solving**  
   - Problems categorized by **data structure** or **algorithm type**.  
   - **3-5 Code Examples** per topic showcasing practical implementations and problem-solving scenarios.  
   - Real-world applications and insights for bridging theory with practice.  
